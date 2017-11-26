@@ -1,0 +1,62 @@
+{
+  "code": "0",
+  "msg": "操作成功",
+  "data": [
+    {
+      "id": 12345,
+      "title": "Java 从入门到放弃",
+      "readedNum": 333,
+      "commentNum": 123,
+      "likeNum": 222,
+      "tag": "java spring",
+      "topicId": 111,
+      "status": 0,
+      "creator": "wuqke",
+      "createTime": 1510804654384,
+      "modifier": null,
+      "modifyTime": null
+    },
+    {
+      "id": 12345,
+      "title": "Javascript 从入门到放弃",
+      "readedNum": 333,
+      "commentNum": 123,
+      "likeNum": 222,
+      "tag": "java spring",
+      "topicId": 111,
+      "status": 0,
+      "creator": "wuqke",
+      "createTime": 1510804654384,
+      "modifier": null,
+      "modifyTime": null
+    },
+    {
+      "id": 12345,
+      "title": "python 从入门到放弃",
+      "readedNum": 333,
+      "commentNum": 123,
+      "likeNum": 222,
+      "tag": "java spring",
+      "topicId": 111,
+      "status": 0,
+      "creator": "wuqke",
+      "createTime": 1510804654384,
+      "modifier": null,
+      "modifyTime": null
+    },
+    {
+      "id": 12345,
+      "title": "C++ 从入门到放弃",
+      "readedNum": 333,
+      "commentNum": 123,
+      "likeNum": 222,
+      "tag": "java spring",
+      "topicId": 111,
+      "status": 0,
+      "creator": "wuqke",
+      "createTime": 1510804654384,
+      "modifier": null,
+      "modifyTime": null
+    }
+  ]
+}

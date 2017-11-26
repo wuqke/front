@@ -1,0 +1,19 @@
+{
+  "code": "0",
+  "message": "operate successfully",
+  "data": {
+    "id": 1,
+    "account": "wuqke",
+    "password": "12346",
+    "name": "伍琼珂",
+    "sex": 1,
+    "company": "pingan",
+    "telephone": "15303",
+    "email": "qiongke@qq.com",
+    "isDelete": null,
+    "creator": null,
+    "createTime": null,
+    "modifier": null,
+    "modifyTime": null
+  }
+}
